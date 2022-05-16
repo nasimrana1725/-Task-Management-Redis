@@ -29549,7 +29549,7 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "card-header" }, [
-      _c("h4", [_vm._v("Add Category")]),
+      _c("h4", [_vm._v("Add Task")]),
     ])
   },
   function () {
@@ -29736,7 +29736,7 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "card-header" }, [
-      _c("h4", [_vm._v("Update Category")]),
+      _c("h4", [_vm._v("Update Task")]),
     ])
   },
   function () {

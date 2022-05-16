@@ -3,7 +3,7 @@
         <div class="col-12">
             <div class="card">
                 <div class="card-header">
-                    <h4>Add Category</h4>
+                    <h4>Add Task</h4>
                 </div>
                 <div class="card-body">
                     <form @submit.prevent="create">
