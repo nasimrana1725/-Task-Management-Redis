@@ -6,6 +6,8 @@ Installation
 ```bash
 composer install
 
+composer require predis/predis
+
 php artisan migrate
 
 php artisan db:seed
