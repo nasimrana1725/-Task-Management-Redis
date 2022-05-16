@@ -29887,7 +29887,7 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("tr", [
       _c("td", { attrs: { colspan: "4", align: "center" } }, [
-        _vm._v("No Categories Found."),
+        _vm._v("No Task Found."),
       ]),
     ])
   },

@@ -32,7 +32,7 @@
                             </tbody>
                             <tbody v-else>
                             <tr>
-                                <td colspan="4" align="center">No Categories Found.</td>
+                                <td colspan="4" align="center">No Task Found.</td>
                             </tr>
                             </tbody>
                         </table>
